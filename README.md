@@ -20,7 +20,7 @@
 
 # 四、流程图
 
-![avatar](https://github.com/Minomeis/Experiment01/blob/master/img/liucheng.jpg)
+![avatar](https://github.com/123456-lyp/Java-lab01-/blob/main/img/img.jpg)
 # 五、关键代码
 1. Account类里面，有两个函数用来实现存钱和取钱。通过布尔类型，来判断取钱的金额是否是这个账户能负担得起的。
 ```java 
@@ -56,7 +56,7 @@ private int age;
 
 # 六、系统运行截图
 &emsp;&emsp;下图是本实验主程序TestBanking.java的运行结果。
-![avatar](https://github.com/Minomeis/Experiment01/blob/master/img/001.jpg)
+![avatar](https://github.com/123456-lyp/Java-lab01-/blob/main/img/001.jpg)
 
 # 七、感想与体会
 &emsp;&emsp;通过本次实验，让我感受到了“万事开头难”这个道理。就这个实验总体来说并不算困难。但是安装idea的过程比较艰辛。在这上面，虽然看似简单，但是确实也是花费了不少功夫。老师给的教程可能并不是很适用，因此，还需要自己花费时间去查找资料，并且克服各种问题，安装成功。
